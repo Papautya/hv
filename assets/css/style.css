@@ -543,7 +543,7 @@ a:active {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: url('/assets/img/yo.jpg') center center no-repeat;
+  background: url('https://github.com/Papautya/hv/blob/main/assets/img/yo.jpg?raw=true') center center no-repeat;
   background-size: contain;
   /* Ajusta la imagen al contenedor */
   width: 50%;
